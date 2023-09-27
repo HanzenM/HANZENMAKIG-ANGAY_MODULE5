@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Yatra+One&display=swap');
+
+*{
+    padding:0px;
+    margin:0px;
+
+}
+.navbar{
+    padding:10px;
+    margin:10px;
+    border:1px solid black;
+    border-radius:5px;
+    text-align:center;
+    background-color:lightsteelblue;
+}
+.links{
+    padding:5px;
+    display:inline;
+}
+.links a{
+    padding: 2px 7px 2px 7px;
+    text-decoration:none;
+    font-family: 'Yatra One';
+    font-size:large;
+    border: 1px solid black;
+    opacity:0.7;
+    transition:0.4s;
+}
+.links a:hover{
+    padding: 5px 10px 5px 10px;
+    opacity: 1;
+    transition: 0.4s;
+}
+.rounded{
+    border-radius:7px;
+}
+.skyblue{
+    background-color:powderblue;
+    color:white;
+}
+.darkcyan{
+    background-color:lightblue;
+    color:white;
+}
+.darkred{
+    background-color:skyblue;
+    color:white;
+}
+.tan{
+    background-color:lightskyblue;
+    color:white;
+}
